@@ -1,4 +1,12 @@
 
 <img src="snapshots/Main Screen.jpg">
 
-<h3>Thanks to Ionic 3 free starter theme from which this app has been developed</h3>
+Features:
+<ul>
+  <li>Login screen(With mac id detection)</li>
+  <li>Sign up page</li>
+  <li>Home page (gps location mapping)</li>
+  <li>Menu page</li>
+  <li>Payment page</li>
+</ul>
+
