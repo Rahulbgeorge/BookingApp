@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ionic 3 Start Theme
 
 Ionic 3 Theme Starter with 10 Pages, mock data, providers samples, Storage, Http and more. Optimized to be performatic at any platform app (Android & iOS) and Web Apps (PWA).
@@ -62,3 +63,6 @@ ___
 
 **Facebook Page:**
 [https://www.facebook.com/ionicthemecom](https://www.facebook.com/ionicthemecom)
+=======
+# PubBooking
+>>>>>>> a9fbbaf6cbf843d37af8f66bb214febad1dd476d
