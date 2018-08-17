@@ -1,0 +1,85 @@
+page-home2 {
+    ion-scroll{
+        white-space: nowrap;
+        height:100px;
+    }
+    ion-card{display:table-cell;}
+
+
+.slideImages{
+    height:30%;
+    width:100%;
+}
+
+.sliderimage{
+    height:100%;
+    
+}
+
+.roomBookingScreen ion-col{
+    height:200px;
+    margin:4px;
+    background-size:cover;
+    padding:10px;
+    color:white;    
+}
+
+.overlay{
+    display:inline-flex;
+    background:black;
+    opacity:100%;
+}
+
+.bottom{
+    position: absolute;
+    bottom:2px;
+    right:2px;
+}
+
+
+
+.bottomBar{
+    background-color:whitesmoke;
+    width:100%;
+    height:80%;
+}
+
+.imagebox{
+    height:80%;
+    width:100%;
+    background-size:contain;
+    background-repeat:no-repeat;
+}
+#b{
+	
+}
+
+
+
+
+
+
+
+
+ion-list {
+    border-radius: 1rem;
+    overflow: hidden;
+
+    ion-item,
+    .item:first-child,
+    .item:last-child {
+      border: none;
+    }
+
+    ion-datetime {
+      padding-left: 0;
+    }
+
+
+}
+
+.alignement{
+    position: absolute;
+    bottom:0px;
+}
+}
